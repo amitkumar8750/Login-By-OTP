@@ -1,0 +1,13 @@
+(base) C:\Users\LALE>pip install validate-email-address
+Collecting validate-email-address
+  Downloading validate-email-address-1.tar.gz (4.9 kB)
+  Preparing metadata (setup.py) ... done
+Building wheels for collected packages: validate-email-address
+  Building wheel for validate-email-address (setup.py) ... done
+  Created wheel for validate-email-address: filename=validate_email_address-1-py3-none-any.whl size=5743 sha256=fecdabad92dee2ebdfd215a91abdc7cd6d16f419be9617a7c7684aae793873f1
+  Stored in directory: c:\users\lale\appdata\local\pip\cache\wheels\e4\8d\f3\d6c9966d3dc348323075afa9a0d5b2477621dadd11c61c8bed
+Successfully built validate-email-address
+Installing collected packages: validate-email-address
+Successfully installed validate-email-address-1
+
+(base) C:\Users\LALE>
